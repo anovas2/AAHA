@@ -10,6 +10,18 @@
 			"configuration": {
 				"database": "C:\\Users\\GAS01574\\Documents\\GitHub\\AAHA\\ETL\\aaha.db",
 				"url": "jdbc:sqlite:C:\\Users\\GAS01574\\Documents\\GitHub\\AAHA\\ETL\\aaha.db",
+				"type": "dev"
+			}
+		},
+		"sqlite_jdbc-16d7854f138-53735a68607fe1d7": {
+			"provider": "generic",
+			"driver": "sqlite_jdbc",
+			"name": "SQLite - pets.sqlite",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "C:\\Users\\GAS01574\\Documents\\GitHub\\GTATL201905DATA3\\15-Interactive-Visualizations-and-Dashboards\\3\\Activities\\07-Stu_Pet_Pals\\Unsolved\\Pet_Pals\\db\\pets.sqlite",
+				"url": "jdbc:sqlite:C:\\Users\\GAS01574\\Documents\\GitHub\\GTATL201905DATA3\\15-Interactive-Visualizations-and-Dashboards\\3\\Activities\\07-Stu_Pet_Pals\\Unsolved\\Pet_Pals\\db\\pets.sqlite",
 				"type": "dev",
 				"handlers": {}
 			}

@@ -1,0 +1,18 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-16d0376cac6-2d583fda6047d46e": {
+			"provider": "generic",
+			"driver": "sqlite_jdbc",
+			"name": "SQLite - aaha.db",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "C:\\Users\\GAS01574\\Documents\\GitHub\\AAHA\\ETL\\aaha.db",
+				"url": "jdbc:sqlite:C:\\Users\\GAS01574\\Documents\\GitHub\\AAHA\\ETL\\aaha.db",
+				"type": "dev",
+				"handlers": {}
+			}
+		}
+	}
+}
